@@ -69,8 +69,7 @@ module.exports = async function (env) {
     };
 
     const devtool = {
-        development: 'inline-source-map',
-        production: 'source-map'
+        development: 'inline-source-map'
     };
 
     const environment = get('environment', 'development');
