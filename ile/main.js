@@ -1,1 +1,0 @@
-require('ile/reportcard/reportcard');
